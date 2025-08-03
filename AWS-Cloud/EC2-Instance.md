@@ -21,7 +21,7 @@ This task simulates a real-world scenario where a DevOps team (Nautilus) begins 
    Using temporary credentials, accessed the AWS Console and selected the N. Virginia (us-east-1) region.
 
 2. **Key Pair Creation**  
-   Created an RSA key pair named `datacenter-kp`. This key was downloaded in `.pem` format for secure SSH access.
+   Created an RSA key pair named `datacenter-kp` for this project. This key was downloaded in `.pem` format for secure SSH access.
 
 3. **Instance Launch**
    - Selected Amazon Linux AMI (latest)
