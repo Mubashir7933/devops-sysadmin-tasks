@@ -6,7 +6,7 @@ This SG will allow **HTTP** and **SSH** access from anywhere, perfect for lab/de
 
 ---
 
-## 📌 Requirements
+## 📌 Requirements for creating security group
 1. **Name:** `xfusion-sg`  
 2. **Description:** `Security group for Nautilus App Servers`  
 3. **Inbound Rules:**
